@@ -36,7 +36,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Storyboard</a></li>
     <li><a href="#usage">Screenshots from App</a></li>
   </ol>
 </details>
