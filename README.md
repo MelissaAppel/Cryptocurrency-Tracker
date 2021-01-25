@@ -81,7 +81,7 @@ For use on iOS devices running iOS 13.0 and higher.
 
 <!-- USAGE EXAMPLES -->
 ## Screenshots from App
-<img src="images/cryptocurrency.png" alt="Logo" width="328" height="655">
+<img src="images/Cryptocurrency.png" alt="Logo" width="328" height="655">
 
 
 
